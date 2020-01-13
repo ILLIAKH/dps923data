@@ -1,0 +1,12 @@
+{
+  "student": "Illia Khomenko",
+  "version": "1.0.0",
+  "timeStamp": "2020-01-13T14:13:12+0000",
+  "count": 4,
+  "data": [
+  {"id": 23, "courseCode": "BTP400", "courseName": "Java Programming"},
+  {"id": 24, "courseCode": "BTN410", "courseName": "Network Programming"},
+  {"id": 25, "courseCode": "BTI425", "courseName": "Web Programming"},
+  {"id": 26, "courseCode": "BTS430", "courseName": "Software Systems 2"}
+  ]
+}
